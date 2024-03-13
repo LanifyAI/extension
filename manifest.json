@@ -2,7 +2,6 @@
   "manifest_version": 3,
   "name": "Lanify",
   "description": "Lanify",
-  "version": "0.0.1",
   "homepage_url": "https://lanify.ai/",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtC+M4gBx87w9Xj7GgeIgpZ8K9XTI+S9j18IrbcyeaCHGcM5ovtjnGq/Mq3qfyybaf+qrsKyOAmKIZvZwf+CZ8ncnaLg/NOnBglssBQJ50nR0Jm7C2oQBzwZ8jIjTlyzOFIR5sVkglfWWenx1V/5uQISI2wV7Hk4Wixe0/zVgHIBBs48kkm8cRnde+V3q1AMD9sl7nJivxZaGfp/stA9XLQ7EhYgiKcIB9+1hyuQtcnSG1PRQlGNjaB/Turf+5PfefCUMtCqgJ3E0CVoxyVySRLrFmqeKMrIfpETSe+Gksl7YFI+kkXG37g1MwICfHK6fwRaJW2k/Zf+VZlziXbjnIQIDAQAB",
   "action": {
@@ -43,5 +42,6 @@
   },
   "host_permissions": [
     "<all_urls>"
-  ]
+  ],
+  "version": "0.1.0"
 }
